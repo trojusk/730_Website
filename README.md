@@ -1,1 +1,1 @@
-# 730_Website
+Welcome to the 7:30 website!
